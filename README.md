@@ -32,7 +32,7 @@ This is my solution to Frontend mentor  Advice Generator App using external API,
 
 
 ### Links
-- Live Site URL: [https://advice-generator-app.vercel.app/](https://advice-generator-app.vercel.app/) 
+- Live Site URL: [https://advice-generator-app-challengee.vercel.app/](https://advice-generator-app-challenge.vercel.app/) 
 
 ### my-process
 With Frontend learnings it became possible to complete this project, using HTML , Sass and JS, starting with layout of the app, then with HTML and JS I handled all the input validation and age calculator function using new Date object; 
